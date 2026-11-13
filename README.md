@@ -11,4 +11,4 @@ A simple to-do list app we build while learning github project management
  complete, and delete tasks.
 
  ## Team
- - Project Manager: tejas
+ - Project Manager:TEJAS
